@@ -13,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-- [cite_start]🔭 I’m currently working on my thesis: a **Multi-agent system for early cancer detection using artificial vision**[cite: 61].
-- [cite_start]🌱 I’m currently completing my **Master of Science in Engineering Artificial Intelligence** at Universidad Internacional de La Rioja[cite: 58, 59].
-- [cite_start]👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**[cite: 48, 49].
-- [cite_start]💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**[cite: 45, 48, 50].
-- [cite_start]📫 How to reach me: **mgranadosc91@gmail.com**[cite: 2].
-- [cite_start]⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German! [cite: 27, 63, 64]
+- 🔭 I’m currently working on my thesis: a **Multi-agent system for early cancer detection using artificial vision**.
+- 🌱 I’m currently completing my **Master of Science in Engineering Artificial Intelligence** at Universidad Internacional de La Rioja.
+- 👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**[cite: 48, 49].
+- 💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**[cite: 45, 48, 50].
+- 📫 How to reach me: **mgranadosc91@gmail.com**[cite: 2].
+- ⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German!
 
 ---
 
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"  alt="Ubuntu" />
 </p>
 
 ---
