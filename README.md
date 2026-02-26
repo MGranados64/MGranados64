@@ -40,7 +40,8 @@
   <img src="https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff" alt="Mistral AI" />
   <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"  alt="Ubuntu" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="MS Azure" />
