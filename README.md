@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Starry Night Banner MGranados64" width="100%">
+  <img src="./banner_1.jpg" alt="Starry Night Banner MGranados64" width="100%">
 </div>
 
 <h1 align="center">Hi there, I'm [Your Name or Alias] 👋</h1>
