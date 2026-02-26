@@ -16,12 +16,12 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on my thesis: a **Multi-agent system for early cancer detection using artificial vision**.
-- 🌱 I’m currently completing my **Master of Science in Engineering Artificial Intelligence** at Universidad Internacional de La Rioja.
+- 🔭 My master's thesis project was: a **Multi-agent system for early cancer detection using machine vision**.
+- 🌱 I’m currently ending my **Master of Science in Engineering Artificial Intelligence**.
 - 👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**.
 - 💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**.
 - 📫 How to reach me: **mgranadosc91@gmail.com**.
-- ⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German!
+- ⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German! Also I love videogames!
 
 ---
 
@@ -74,9 +74,10 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
 | Project / Focus | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Cancer Detection System** | Multi-agent system for early cancer detection using artificial vision. | `Python`, `Computer Vision`, `Agents` |
+| **Medical AI Agents** | Agentic AI system designed for healthcare applications, leveraging LLMs for medical assistance and data processing. | `Python`, `LangChain`, `LLMs` |
+| **License Plate Detection** | Automatic Number-Plate Recognition (ANPR) system built using Transfer Learning techniques. | `PyTorch`, `Transfer Learning`, `CV` |
 | **Object Detection Model** | Detection of objects in images with deep neural networks. | `PyTorch`, `TensorFlow`, `Deep Learning` |
 | **Process Automation** | Process automation in climatic chamber testing and advanced data analysis. | `Python`, `Pandas`, `NumPy` |
-
 ---
 
 ## 📊 GitHub Stats
