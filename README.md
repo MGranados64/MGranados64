@@ -90,7 +90,7 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
   <a href="https://linkedin.com/in/miguel-granados-2a77ba199"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/MGC1991MF"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
   <a href="https://wa.me/528446658689" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:mgranadosc91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgranadosc91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 
