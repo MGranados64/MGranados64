@@ -32,8 +32,14 @@
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
   <img src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff" alt="TOML" />
   <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" alt="Keras" />
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)" alt="LangChain" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
+</p>
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
@@ -42,7 +48,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"  alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"  alt="Linux" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"  alt="Windows" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="MS Azure" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" />
@@ -51,8 +58,6 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" alt="Notepad++" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
-</p>
 
 ---
 
