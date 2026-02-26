@@ -73,7 +73,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MGranados64&show_icons=true&theme=tokyonight&hide_border=true" alt="MGranados64's GitHub Stats" />
+  <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="100%">
+  </div>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGranados64&theme=tokyonight&hide_border=true" alt="MGranados64's Streak" />
 </div>
