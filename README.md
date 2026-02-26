@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" alt="Keras" />
   <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)" alt="LangChain" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
-</p>
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
