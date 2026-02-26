@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">Hi there, I'm Miguel Granados 👋</h1>
-<h3 align="center">M.Sc. Artificial Intelligence Candidate | ML & DL Enthusiast</h3>
+<h3 align="center">M.Sc. Artificial Intelligence | ML & DL Enthusiast</h3>
 
-Welcome to my GitHub! I am an AI Graduate Student with a deep-rooted passion for Machine Learning and Deep Learning. Coming from a strong background in Service and Commissioning Engineering, I bring a highly analytical, problem-solving mindset to the world of Artificial Intelligence.
+Welcome to my GitHub! I am an AI Graduate Student with a deep-rooted passion for Machine Learning and Deep Learning. Coming from a strong background as Service and Commissioning Engineering in the Automitive field , I bring a highly analytical, problem-solving mindset to the world of Artificial Intelligence.
 
 My core expertise lies in **Computer Vision**, **Agentic AI**, and developing scalable models using Python, PyTorch, and TensorFlow. Currently, I am channeling my focus into healthcare innovation through my thesis, where I am developing a multi-agent system for early cancer detection using artificial vision. 
 
