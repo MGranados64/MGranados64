@@ -36,12 +36,18 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
   <img src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff" alt="TOML" />
   <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff" alt="CUDA" />
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" alt="Keras" />
   <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)" alt="LangChain" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" alt="MLflow" />
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
@@ -91,6 +97,7 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
   <a href="https://huggingface.co/MGC1991MF"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
   <a href="https://wa.me/528446658689" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgranadosc91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199562085302/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam" /></a>
 </div>
 
 
