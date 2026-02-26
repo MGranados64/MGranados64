@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on my thesis: a **Multi-agent system for early cancer detection using artificial vision**.
 - 🌱 I’m currently completing my **Master of Science in Engineering Artificial Intelligence** at Universidad Internacional de La Rioja.
-- 👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**[cite: 48, 49].
-- 💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**[cite: 45, 48, 50].
-- 📫 How to reach me: **mgranadosc91@gmail.com**[cite: 2].
+- 👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**.
+- 💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**.
+- 📫 How to reach me: **mgranadosc91@gmail.com**.
 - ⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German!
 
 ---
@@ -64,9 +64,9 @@
 
 | Project / Focus | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Cancer Detection System** | [cite_start]Multi-agent system for early cancer detection using artificial vision[cite: 61]. | `Python`, `Computer Vision`, `Agents` |
-| **Object Detection Model** | [cite_start]Detection of objects in images with deep neural networks[cite: 32]. | `PyTorch`, `TensorFlow`, `Deep Learning` |
-| **Process Automation** | [cite_start]Process automation in climatic chamber testing and advanced data analysis[cite: 14, 24]. | `Python`, `Pandas`, `NumPy` |
+| **Cancer Detection System** | Multi-agent system for early cancer detection using artificial vision. | `Python`, `Computer Vision`, `Agents` |
+| **Object Detection Model** | Detection of objects in images with deep neural networks. | `PyTorch`, `TensorFlow`, `Deep Learning` |
+| **Process Automation** | Process automation in climatic chamber testing and advanced data analysis. | `Python`, `Pandas`, `NumPy` |
 
 ---
 
