@@ -98,6 +98,6 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
   <a href="https://wa.me/528446658689" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgranadosc91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://steamcommunity.com/profiles/76561199562085302/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam" /></a>
-</div>
+</div> 
 
 
