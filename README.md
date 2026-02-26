@@ -38,7 +38,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" alt="Notepad++" />
-  <img src="[https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
 </p>
