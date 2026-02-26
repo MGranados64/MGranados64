@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Miguel Granados 👋</h1>
-<h3 align="center">M.Sc. Artificial Intelligence | ML & DL Enthusiast</h3>
+<h3 align="center">M.Sc. Artificial Intelligence Student | ML & DL Enthusiast</h3>
 
 Welcome to my GitHub! I am an AI Graduate Student with a deep-rooted passion for Machine Learning and Deep Learning. Coming from a strong background as Service and Commissioning Engineering in the Automitive field , I bring a highly analytical, problem-solving mindset to the world of Artificial Intelligence.
 
@@ -90,5 +90,9 @@ Whether it's deploying LLMs, creating RAG architectures, or automating complex d
 <div align="center">
   <a href="https://linkedin.com/in/miguel-granados-2a77ba199">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  <a href="https://huggingface.co/MGC1991MF">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" />
   </a>
 </div>
+
+
