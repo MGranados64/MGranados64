@@ -73,9 +73,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="100%">
+  <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="75%">
   </div>
   <br><br>
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGranados64&theme=tokyonight&hide_border=true" alt="MGranados64's Streak" />
 </div>
 
