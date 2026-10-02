@@ -3,25 +3,25 @@
 </div>
 
 <h1 align="center">Hi there, I'm Miguel Granados 👋</h1>
-<h3 align="center">M.Sc. Artificial Intelligence Student | ML & DL Enthusiast</h3>
+<h3 align="center">M.Sc. in Artificial Intelligence | AI & Prompt Engineer</h3>
 
-Welcome to my GitHub! I hold a Master's degree in Artificial Intelligence, with a deep passion for Machine Learning and Deep Learning. Drawing from my solid background in service and commissioning engineering within the automotive sector, I bring a highly analytical, problem-solving approach to the world of AI.
+Welcome to my GitHub! I hold a Master's degree in Artificial Intelligence and currently work as a Prompt Engineer specializing in LLMs applied to finance and accounting[cite: 1]. Drawing from a 6-year background in automotive service and commissioning engineering across the UK and Germany[cite: 1], I bring a highly analytical, industrial-grade problem-solving approach to AI architecture.
 
-My core areas of expertise include computer vision, Agentic AI, and developing scalable models using Python, PyTorch, and TensorFlow. Currently, I am focusing my efforts on innovation within the healthcare sector, where my research centers on developing multi-agent systems for early cancer detection using computer vision.
-
-Whether deploying LLMs, architecting RAG pipelines, or automating complex data workflows, I thrive on building systems that bridge the gap between AI theory and real-world applied engineering.
+My core expertise spans Agentic AI, Prompt Engineering, and developing scalable evaluation frameworks using Python, PyTorch, and LangChain[cite: 1]. Recently, I achieved a 91% reduction in financial reporting time by architecting multi-step agentic workflows for automated data extraction and reconciliations[cite: 1]. Whether designing LegalTech RAG platforms, building autonomous agents evaluated with RAGAS and LLM-as-Judge, or deploying full-stack computer vision models[cite: 1], I thrive on bridging AI theory with robust, production-ready engineering.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 My master's thesis project was: a **Multi-agent system for early cancer detection using machine vision**.
-- 🌱 I’m currently ending my **Master of Science in Engineering Artificial Intelligence**.
-- 👯 I’m looking to collaborate on **Computer Vision, GenAI, and Machine Learning projects**.
-- 💬 Ask me about **Python, PyTorch, TensorFlow, LangChain, and Computer Vision**.
-- 📫 How to reach me: **mgranadosc91@gmail.com**.
-- ⚡ Fun fact: I have performed commissioning works at powertrains in the UK and Germany, and I speak Spanish, English, and German! Also I love videogames!
+- 💼 I’m currently working as an **AI & Prompt Engineer**, optimizing financial processes and deploying production-level LLM architectures[cite: 1].
+- 🎓 I hold a **Master of Science in Artificial Intelligence**[cite: 1].
+- 🔭 My master's thesis focused on a **Multi-agent system for early cancer detection using machine vision**[cite: 1].
+- 🌱 I’m currently building robust **evaluation frameworks (Agentic Evals, LLM-as-Judge)** for RAG and autonomous agents[cite: 1].
+- 👯 I’m looking to collaborate on **Agentic workflows, GenAI evaluation, and Full-Stack AI integration projects**.
+- 💬 Ask me about **Prompt Engineering, RAGAS, LangChain, Vue 3, and automated OCR deployment**[cite: 1].
+- 📫 How to reach me: **mgranadosc91@gmail.com**[cite: 1].
+- ⚡ Fun fact: I previously worked as a Commissioning Engineer for powertrains in the UK and Germany[cite: 1], and I speak Spanish, English, and German[cite: 1]! 
 
 ---
 
@@ -29,43 +29,21 @@ Whether deploying LLMs, architecting RAG pipelines, or automating complex data w
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
-  <img src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff" alt="TOML" />
-  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff" alt="CUDA" />
-  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" alt="Keras" />
-  <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)" alt="LangChain" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" alt="MLflow" />
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff" alt="Mistral AI" />
-  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"  alt="Linux" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"  alt="Windows" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="MS Azure" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" alt="Notepad++" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face Space" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+</p>
 
 ---
 
@@ -73,19 +51,20 @@ Whether deploying LLMs, architecting RAG pipelines, or automating complex data w
 
 | Project / Focus | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Cancer Detection System** | Multi-agent system for early cancer detection using artificial vision. | `Python`, `Computer Vision`, `Agents` |
-| **Medical AI Agents** | Agentic AI system designed for healthcare applications, leveraging LLMs for medical assistance and data processing. | `Python`, `LangChain`, `LLMs` |
-| **License Plate Detection** | Automatic Number-Plate Recognition (ANPR) system built using Transfer Learning techniques. | `PyTorch`, `Transfer Learning`, `CV` |
-| **Object Detection Model** | Detection of objects in images with deep neural networks. | `PyTorch`, `TensorFlow`, `Deep Learning` |
-| **Process Automation** | Process automation in climatic chamber testing and advanced data analysis. | `Python`, `Pandas`, `NumPy` |
+| **Financial Reporting Automation** | Orchestrated multi-step agentic workflows reducing financial report elaboration time by 91%[cite: 1]. | `Prompt Engineering`, `LLMs`, `Agents` |
+| **LegalTech RAG Platform** | Developed a semantic search CRM using pgvector and local models, achieving 100% hit@8 validated with RAGAS[cite: 1]. | `RAG`, `Vue 3`, `Supabase` |
+| **Fiscal OCR Automation** | Automated CFDI receipt extraction deployed on HF Spaces with auditable logging and pytest validation[cite: 1]. | `Tesseract`, `PaddleOCR`, `DeepSeek` |
+| **Agentic Evaluation Frameworks** | Designed evals for prompts and benchmarking of local/cloud models using LLM-as-judge mechanics[cite: 1]. | `RAGAS`, `LLMOps`, `Python` |
+| **Cancer Detection System** | Master's thesis: Multi-agent system for early cancer detection utilizing advanced artificial vision techniques[cite: 1]. | `Computer Vision`, `PyTorch` |
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="75%">
-  </div>
-  <div align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGranados64&theme=tokyonight&hide_border=true" alt="MGranados64's Streak" />
 </div>
 
@@ -94,11 +73,10 @@ Whether deploying LLMs, architecting RAG pipelines, or automating complex data w
 ## 🤝 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/miguel-granados-2a77ba199"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/miguelgranadosc-ai"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/MGC1991MF"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
   <a href="https://wa.me/528446658689" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgranadosc91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://steamcommunity.com/profiles/76561199562085302/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam" /></a>
-</div> 
-
+</div>
 
