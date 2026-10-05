@@ -122,13 +122,29 @@ building systems that bridge the gap between AI theory and real-world applied en
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Continuing Education
+ 
+**🎓 Graduate Diplomas in AI — UNIR México** (3 × 288 h)
+ 
+- Computer Vision & Machine Learning
+- Deep Learning & NLP
+- AI Project Management
+**🤖 LLMs, Agentic AI & Evaluation — ACTUMLOGOS**
+ 
+- Agentic Evals (36 h)
+- Applied LLM Engineering (36 h)
+- Agentic AI & Prompt Engineering (36 h)
+**☁️ AI Engineering & Cloud**
+ 
+- Azure AI Fundamentals & AI Engineer Associate training program (150 h) — Microsoft México · Red por la Ciberseguridad
+- AI Engineer for Developers Associate — DataCamp
 
-- **Continuing Education Certificate in Data & Business Analytics** — MIU City University Miami
-- **Agentic Evals (36 h)** · **Applied LLM Engineering (36 h)** · **Agentic AI & Prompt Engineering (36 h)** — ACTUMLOGOS
-- **Azure AI Fundamentals & AI Engineer Associate (150 h)** — Microsoft México
-- **Python Data Associate** · **AI Engineer for Developers Associate** · **Associate Data Analyst** — DataCamp
-- **Graduate Diplomas in AI (3 × 288 h)** — UNIR México
+**📊 Data, ML & Computer Vision Foundations**
+ 
+- Python Data Associate · Associate Data Analyst — DataCamp
+- Continuing Education Certificate in Data & Business Analytics — MIU City University Miami
+- Mathematics for Machine Learning (40 h) · Deep Learning for Images (36 h) — ACTUMLOGOS
+- Data-Driven Methods for Complex Dynamical Systems (short course) — Cinvestav
 
 ---
 
