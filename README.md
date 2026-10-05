@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner_1.png" alt="Starry Night Banner MGranados64" width="100%">
+  <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="100%">
 
 </div>
 
@@ -168,7 +168,7 @@ Whether deploying LLMs, architecting RAG pipelines, or automating complex data w
 
 <div align="center">
 
-  <img src="./banner_3.png" alt="Starry Night Banner MGranados64" width="75%">
+  <img src="./banner_1.png" alt="Starry Night Banner MGranados64" width="75%">
 
   </div>
 
